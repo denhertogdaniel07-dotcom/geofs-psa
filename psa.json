@@ -1,0 +1,24 @@
+{
+    "name": "Premium Service Airway",
+    "color": "white",
+    "bgcolor": "darkblue",
+    "aircrafts": {
+        "25": {
+            "name": "Boeing B777-300ER",
+            "liveries": [
+                {
+                    "name": "PSA 777 default",
+                    "texture": [
+                        "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b777-300er/speculars/specular-orient.webp",
+                        "https://raw.githubusercontent.com/denhertogdaniel07-dotcom/geofs-psa/main/B777-300ER.jpg"
+                    ],
+                    "credits": "PS4Pilot"
+                }
+            ],
+            "labels": [
+                "Specular shader",
+                "Texture"
+            ]
+        }
+    }
+}
