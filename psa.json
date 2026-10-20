@@ -9,15 +9,15 @@
                 {
                     "name": "PSA 777 default",
                     "texture": [
-                        "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b777-300er/speculars/specular-orient.webp",
-                        "https://raw.githubusercontent.com/denhertogdaniel07-dotcom/geofs-psa/main/B777-300ER.jpg"
+                        "https://raw.githubusercontent.com/denhertogdaniel07-dotcom/geofs-psa/main/B777-300ER.jpg",
+                        "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b777-300er/speculars/specular-orient.webp"
                     ],
                     "credits": "PS4Pilot"
                 }
             ],
             "labels": [
-                "Specular shader",
-                "Texture"
+                "Texture",
+                "Specular shader"
             ]
         }
     }
