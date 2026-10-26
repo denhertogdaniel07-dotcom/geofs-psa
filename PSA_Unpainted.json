@@ -19,6 +19,23 @@
                 "Texture",
                 "Texture"
             ]
+        },
+        "3575": {
+            "name": "Boeing 787-10",
+            "liveries": [
+                {
+                    "name": "PSA 787 Unpainted",
+                    "texture": [
+                        "https://raw.githubusercontent.com/denhertogdaniel07-dotcom/geofs-psa/main/787-10-unpainted.jpeg",
+                        "https://raw.githubusercontent.com/denhertogdaniel07-dotcom/geofs-psa/main/787-10-unpainted.jpeg"
+                    ],
+                    "credits": "PS4Pilot"
+                }
+            ],
+            "labels": [
+                "Texture",
+                "Texture"
+            ]
         }
     }
 }
