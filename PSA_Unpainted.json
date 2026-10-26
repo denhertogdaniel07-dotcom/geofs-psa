@@ -9,12 +9,14 @@
                 {
                     "name": "PSA 777 Unpainted",
                     "texture": [
+                        "https://raw.githubusercontent.com/denhertogdaniel07-dotcom/geofs-psa/467f30f41eee35c2c43b0171fad979da9fd4126c/liveries/boeing_b777-300ER/Unpainted777-300ER.jpeg",
                         "https://raw.githubusercontent.com/denhertogdaniel07-dotcom/geofs-psa/467f30f41eee35c2c43b0171fad979da9fd4126c/liveries/boeing_b777-300ER/Unpainted777-300ER.jpeg"
                     ],
                     "credits": "PS4Pilot"
                 }
             ],
             "labels": [
+                "Texture",
                 "Texture"
             ]
         }
